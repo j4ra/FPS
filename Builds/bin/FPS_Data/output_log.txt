@@ -1,0 +1,30 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Dokumenty\_Dokumenty\_Programovani\JAR-Ware\UNITY\FPS\Builds\bin\FPS_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 5.160436 ms
+System memory in use before: 31.5 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 31.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1851.
+Total: 1.406063 ms (FindLiveObjects: 0.075395 ms CreateObjectMapping: 0.021710 ms MarkObjects: 0.418424 ms  DeleteObjects: 0.009868 ms)
+
